@@ -1,0 +1,5 @@
+{
+  "name": "RinnieeRoams",
+  "description": "A sophisticated, editorial travel guide for the modern explorer. Curated insights, cinematic itineraries, and real-time travel intelligence.",
+  "requestFramePermissions": ["geolocation"]
+}
